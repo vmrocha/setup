@@ -1,1 +1,1 @@
-# setup
+# Setup Ubuntu
